@@ -1,9 +1,7 @@
 # Dan Alagtash
 
 ![Dan Alagtash](danalagtash.jpg)<br>
-**Address:** 13505 Myren Dr, Saratoga, CA 95070 <br>
-**Phone Number:** +1(669) 298-4783 <br>
-**Email:** dalagtash@gmail.com <br>
+
 
 [LinkedIn] • [github]
 <br>
