@@ -1,6 +1,6 @@
 # Dan Alagtash
 
-![Dan Alagtash](danalagtash.jpg)<br>
+![Dan Alagtash](danalagtash.jpeg)<br>
 
 
 [LinkedIn] • [github]
