@@ -2,7 +2,7 @@
 
 ![Dan Alagtash](danalagtash.jpeg)<img width=50% height=50%><br>
 
-B.Sc. CS. Dan Alagtash, Lives in [Cupertino, CA], Email: dalagtash@gmail.com <br>
+B.Sc. CS. Dan Alagtash, Birth Date: 3/FEB/2000, Lives in [Cupertino, CA], Email: dalagtash@gmail.com.<br>
  [LinkedIn] | [github]
 <br><br>
 ## [TL;DR]⠀
@@ -10,8 +10,7 @@ B.Sc. CS. Dan Alagtash, Lives in [Cupertino, CA], Email: dalagtash@gmail.com <br
 - Studing Comuter Science.
 - My technical skills: C++, Java, Html, CSS, JavaScript (Using HTML5, CSS3, jQuery and JavaScript), visual programming (PHP), Data Structures and Algorithms, Microsoft Access, Photoshop.
 - Worked on differnet projects and labs in Java language.
-- My Birthday in 3/FEB/2000. 
-- Adventurous, Creative, Ambitious.
+- I'm Adventurous, Creative, Ambitious and Positive.
 
 ### About me
 
