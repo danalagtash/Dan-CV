@@ -2,8 +2,7 @@
 
 ![Dan Alagtash](danalagtash.jpeg)<img width=50% height=50%><br>
 
-
-[LinkedIn] • [github]
+[Cupertino, CA] • [LinkedIn] • [github]
 <br>
 ## [TL;DR]⠀
 
@@ -55,7 +54,7 @@ KING ABDULLAH FUND FOR DEVELOPMENT (University Of Petra)
 
 ------
 
-
+[Cupertino, CA]: https://www.google.com/maps/place/Cupertino,+CA/@37.3092293,-122.1136845,12z/data=!3m1!4b1!4m5!3m4!1s0x808fb4571bd377ab:0x394d3fe1a3e178b4!8m2!3d37.3229978!4d-122.0321823
 [LinkedIn]: https://www.linkedin.com/in/danalagtash/
 [github]: https://github.com/danalagtash
 [TL;DR]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
