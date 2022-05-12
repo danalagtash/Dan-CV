@@ -8,8 +8,10 @@
 ## [TL;DR]⠀
 
 - Studing Comuter Science.
-- My Birthday in 3/FEB/2000.
-- 
+- My technical skills: C++, Java, Html, CSS, JavaScript (Using HTML5, CSS3, jQuery and JavaScript), visual programming (PHP), Data Structures and Algorithms, Microsoft Access, Photoshop.
+- Worked on differnet projects and labs in Java language.
+- My Birthday in 3/FEB/2000. 
+- Adventurous, Creative, Ambitious.
 
 ### About me
 
