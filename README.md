@@ -2,8 +2,9 @@
 
 ![Dan Alagtash](danalagtash.jpeg)<img width=50% height=50%><br>
 
-[Cupertino, CA] • [LinkedIn] • [github]
-<br>
+B.Sc. CS. Dan Alagtash, Lives in [Cupertino, CA], Email: dalagtash@gmail.com <br>
+ [LinkedIn] | [github]
+<br><br>
 ## [TL;DR]⠀
 
 - Studing Comuter Science.
