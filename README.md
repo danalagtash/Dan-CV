@@ -26,6 +26,7 @@ English – Native<br>
 Turkish – Beginner
 
 ### Trainings
+(These trainings helped me for a better communication skills, understand work environment and dealing with team work) <br>
 **The Psychology Of Change And The Way To Success** <br>
 KING ABDULLAH FUND FOR DEVELOPMENT (UniversityOf Petra) 
 
@@ -37,9 +38,8 @@ KING ABDULLAH FUND FOR DEVELOPMENT (University Of Petra)
 <br>
 ### Education
 **University Of Petra**<br>
-<font color="gray">Jordan, Amman</font> <br>
 **Bachelor’s: Computer Science**<br>
-2018 - Expected Graduation: 2023<br>
+2018 - To Date <br>
 
 
 ## Projects
