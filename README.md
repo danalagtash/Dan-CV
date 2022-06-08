@@ -2,7 +2,7 @@
 
 ![Dan Alagtash](danalagtash.jpeg)<img width=50% height=50%><br>
 
-B.Sc. Computer Science • Born Feb-03-2000 • Lives in [Cupertino, CA] • Email: dalagtash@gmail.com
+B.Sc. Computer Science • Born Feb-03-2000 • Lives in [Cupertino, CA] • Email: [dalagtash@gmail.com]
 
 [LinkedIn] | [github]
 
@@ -55,5 +55,6 @@ These trainings helped me improve my collaboration and communication skills and 
 [This document is maintained on github]: https://github.com/danalagtash/Dan-CV/blob/main/README.md
 [TL;DR]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [Cupertino, CA]: https://www.google.com/maps/place/Cupertino,+CA/@37.3092293,-122.1136845,12z/data=!3m1!4b1!4m5!3m4!1s0x808fb4571bd377ab:0x394d3fe1a3e178b4!8m2!3d37.3229978!4d-122.0321823
+[dalagtash@gmail.com]: mailto:dalagtash@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/danalagtash/
 [github]: https://github.com/danalagtash
