@@ -1,6 +1,6 @@
 # Dan Alagtash
 
-![Dan Alagtash](danalagtash.jpeg)<img width=50% height=50%><br>
+[<img src="danalagtash.jpeg" width="400"/>](danalagtash.jpeg)<br>
 
 B.Sc. Computer Science • Born Feb-03-2000 • Lives in [Cupertino, CA] • Email: [dalagtash@gmail.com]
 
