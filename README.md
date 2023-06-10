@@ -11,7 +11,7 @@ B.Sc. Computer Science • Born Feb-03-2000 • Lives in [Cupertino, CA] • Ema
 - Studying Computer Science.
 - Passionate about Website development.
 - Worked on several website projects.
-- Java, JavaScript, C++, HTML, CSS, HTML5, CSS3, jQuery, visual programming (PHP), data structures and algorithms,
+- Java, JavaScript, C++, HTML, CSS, HTML5, CSS3, jQuery, visual programming (PHP), python, data structures and algorithms,
   Microsoft Access, Photoshop.
 
 ## About me
