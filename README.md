@@ -42,6 +42,7 @@ These trainings helped me improve my collaboration and communication skills and 
 
 - Arabic – Native
 - English – Excellent
+- Spanish - Beginner
 - Turkish – Beginner
  
 ## Hobbies
